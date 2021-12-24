@@ -1,0 +1,8 @@
+tuya_iot_funtion.c:72:20:ty_iot_gw_ug_inform_cb	0	static
+tuya_iot_funtion.c:91:13:ty_iot_dev_raw_dp_cb	0	static
+tuya_iot_funtion.c:23:13:ty_iot_network_status_cb	24	static
+tuya_iot_funtion.c:102:13:ty_iot_dev_ug_inform_cb	32	static
+tuya_iot_funtion.c:97:13:ty_iot_dev_dp_query_cb	16	static
+tuya_iot_funtion.c:66:13:ty_iot_status_changed_cb	24	static
+tuya_iot_funtion.c:79:13:ty_iot_dev_obj_dp_cb	40	static
+tuya_iot_funtion.c:121:13:ty_iot_funtion_start_init	72	static

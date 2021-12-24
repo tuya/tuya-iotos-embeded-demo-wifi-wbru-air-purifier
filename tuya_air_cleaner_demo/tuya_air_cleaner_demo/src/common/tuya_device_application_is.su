@@ -1,0 +1,10 @@
+tuya_device.c:52:6:pre_app_init	0	static
+tuya_device.c:57:6:mf_user_product_test_cb	0	static
+tuya_device.c:63:6:mf_user_enter_callback	0	static
+tuya_device.c:69:6:mf_user_pre_gpio_test_cb	0	static
+tuya_device.c:75:6:pre_device_init	32	static
+tuya_device.c:84:6:mf_user_callback	0	static
+tuya_device.c:89:6:app_init	8	static
+tuya_device.c:101:8:gpio_test	0	static
+tuya_device.c:106:13:user_product_test_cb	0	static
+tuya_device.c:112:13:device_init	32	static

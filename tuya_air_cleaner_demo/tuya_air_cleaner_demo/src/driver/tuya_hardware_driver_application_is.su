@@ -1,0 +1,2 @@
+tuya_hardware_driver.c:114:13:tuya_hardware_gpio_init	32	static
+tuya_hardware_driver.c:147:13:tuya_uv_set_on	32	static

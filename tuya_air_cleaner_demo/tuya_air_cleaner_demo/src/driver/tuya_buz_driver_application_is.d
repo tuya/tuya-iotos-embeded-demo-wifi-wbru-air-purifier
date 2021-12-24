@@ -1,0 +1,20 @@
+../../../../../../apps/tuya_air_cleaner_demo/src/driver/tuya_buz_driver_application_is.o: \
+ ../../../../../../apps/tuya_air_cleaner_demo/src/driver/tuya_buz_driver.c \
+ ../../../../../../apps/tuya_air_cleaner_demo/include/driver/tuya_buz_driver.h \
+ ../../../../../../sdk/include/tuya_cloud_types.h \
+ ../../../../../../sdk/include/tuya_iot_config.h \
+ ../../../../../../sdk/include/tuya_cloud_error_code.h \
+ ../../../../../../sdk/include/tuya_error_code.h \
+ ../../../../../../sdk/include/tuya_gpio.h \
+ ../../../../../../sdk/include/tuya_cloud_types.h \
+ ../../../../../../sdk/include/uni_log.h \
+ ../../../../../../sdk/include/tuya_pin.h \
+ ../../../../../../sdk/include/tuya_driver.h \
+ ../../../../../../sdk/include/tuya_hal_mutex.h \
+ ../../../../../../sdk/include/tuya_os_adapter.h \
+ ../../../../../../sdk/include/tuya_os_adapter_error_code.h \
+ ../../../../../../sdk/include/tuya_hal_semaphore.h \
+ ../../../../../../sdk/include/tuya_pwm.h \
+ ../../../../../../sdk/include/sys_timer.h \
+ ../../../../../../sdk/include/uni_time_queue.h \
+ ../../../../../../apps/tuya_air_cleaner_demo/include/function/tuya_timer_funtion.h

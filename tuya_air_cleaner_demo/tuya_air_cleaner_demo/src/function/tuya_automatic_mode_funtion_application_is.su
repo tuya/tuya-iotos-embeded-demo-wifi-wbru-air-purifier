@@ -1,0 +1,9 @@
+tuya_automatic_mode_funtion.c:63:13:tuya_set_air_quality_index	0	static
+tuya_automatic_mode_funtion.c:127:13:tuya_pm25_scan	32	static
+tuya_automatic_mode_funtion.c:234:13:tuya_auto_fan_speed_start	24	static
+tuya_automatic_mode_funtion.c:268:13:tuya_uv_funtion_scan	16	static
+tuya_automatic_mode_funtion.c:299:13:tuya_dark_scan	8	static
+tuya_automatic_mode_funtion.c:354:13:tuya_dark_scan_start	16	static
+tuya_automatic_mode_funtion.c:378:13:tuya_set_uv_switch_value	8	static
+tuya_automatic_mode_funtion.c:393:13:tuya_set_uv_status	0	static
+tuya_automatic_mode_funtion.c:405:8:tuya_get_uv_status	0	static

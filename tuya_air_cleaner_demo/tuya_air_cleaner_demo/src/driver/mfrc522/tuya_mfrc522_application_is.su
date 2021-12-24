@@ -1,0 +1,6 @@
+tuya_mfrc522.c:122:20:_MOSI_set	24	static
+tuya_mfrc522.c:141:20:_NSS_set	24	static
+tuya_mfrc522.c:103:20:_SCK_set	24	static
+tuya_mfrc522.c:41:13:tuya_mfrc522_pin_init	24	static
+tuya_mfrc522.c:173:9:ReadRawRC	16	static
+tuya_mfrc522.c:209:6:WriteRawRC	16	static

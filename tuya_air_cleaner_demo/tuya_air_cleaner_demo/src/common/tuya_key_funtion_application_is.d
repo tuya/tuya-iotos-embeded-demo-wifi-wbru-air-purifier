@@ -1,0 +1,32 @@
+../../../../../../apps/tuya_air_cleaner_demo/src/common/tuya_key_funtion_application_is.o: \
+ ../../../../../../apps/tuya_air_cleaner_demo/src/common/tuya_key_funtion.c \
+ ../../../../../../apps/tuya_air_cleaner_demo/include/common/tuya_key_funtion.h \
+ ../../../../../../sdk/include/tuya_cloud_types.h \
+ ../../../../../../sdk/include/tuya_iot_config.h \
+ ../../../../../../sdk/include/tuya_cloud_error_code.h \
+ ../../../../../../sdk/include/tuya_error_code.h \
+ ../../../../../../sdk/include/tuya_pin.h \
+ ../../../../../../sdk/include/tuya_driver.h \
+ ../../../../../../sdk/include/tuya_cloud_types.h \
+ ../../../../../../sdk/include/tuya_hal_mutex.h \
+ ../../../../../../sdk/include/tuya_os_adapter.h \
+ ../../../../../../sdk/include/tuya_os_adapter_error_code.h \
+ ../../../../../../sdk/include/tuya_hal_semaphore.h \
+ ../../../../../../sdk/include/tuya_iot_wifi_api.h \
+ ../../../../../../sdk/include/tuya_cloud_com_defs.h \
+ ../../../../../../sdk/include/ty_cJSON.h \
+ ../../../../../../sdk/include/tuya_cloud_wifi_defs.h \
+ ../../../../../../sdk/include/tuya_iot_com_api.h \
+ ../../../../../../sdk/include/tuya_iot_com_api.h \
+ ../../../../../../sdk/include/tuya_iot_internal_api.h \
+ ../../../../../../sdk/include/thing_config.h \
+ ../../../../../../sdk/include/tuya_cloud_wifi_defs.h \
+ ../../../../../../sdk/include/uni_log.h \
+ ../../../../../../sdk/include/tuya_led.h \
+ ../../../../../../sdk/include/tuya_pin.h \
+ ../../../../../../sdk/include/tuya_key.h \
+ ../../../../../../sdk/include/tuya_gpio.h \
+ ../../../../../../apps/tuya_air_cleaner_demo/include/driver/tuya_hardware_driver.h \
+ ../../../../../../apps/tuya_air_cleaner_demo/include/driver/tuya_buz_driver.h \
+ ../../../../../../apps/tuya_air_cleaner_demo/include/function/tuya_air_quality_funtion.h \
+ ../../../../../../apps/tuya_air_cleaner_demo/include/function/tuya_mode_funtion.h

@@ -1,0 +1,17 @@
+tuya_mfrc522_app.c:42:13:tuya_mfrc522_app_init	24	static
+tuya_mfrc522_app.c:324:13:PcdReset	8	static
+tuya_mfrc522_app.c:409:6:SetBitMask	16	static
+tuya_mfrc522_app.c:423:6:ClearBitMask	16	static
+tuya_mfrc522_app.c:294:6:CalulateCRC	24	static
+tuya_mfrc522_app.c:440:13:PcdComMF522	40	static
+tuya_mfrc522_app.c:69:13:PcdRequest	48	static
+tuya_mfrc522_app.c:98:13:PcdAnticoll	48	static
+tuya_mfrc522_app.c:133:13:PcdSelect	40	static
+tuya_mfrc522_app.c:173:13:PcdAuthState	40	static
+tuya_mfrc522_app.c:204:13:PcdRead	48	static
+tuya_mfrc522_app.c:234:13:PcdWrite	48	static
+tuya_mfrc522_app.c:271:13:PcdHalt	40	static
+tuya_mfrc522_app.c:526:6:PcdAntennaOn	8	static
+tuya_mfrc522_app.c:354:13:M500PcdConfigISOType	8	static
+tuya_mfrc522_app.c:540:6:PcdAntennaOff	0	static
+tuya_mfrc522_app.c:550:6:WaitCardOff	16	static

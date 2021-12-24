@@ -1,0 +1,7 @@
+tuya_motor_driver.c:53:13:tuya_motor_pwm_init	32	static
+tuya_motor_driver.c:150:13:tuya_motor_start	48	static
+tuya_motor_driver.c:194:13:tuya_motor_stop	24	static
+tuya_motor_driver.c:221:8:tuya_get_fan_speed_percent	8	static
+tuya_motor_driver.c:234:13:tuya_fan_speed_dp_handle	32	static
+tuya_motor_driver.c:272:13:tuya_fault_to_stop_motor	8	static
+tuya_motor_driver.c:291:13:tuya_manual_mode_motor_start	8	static

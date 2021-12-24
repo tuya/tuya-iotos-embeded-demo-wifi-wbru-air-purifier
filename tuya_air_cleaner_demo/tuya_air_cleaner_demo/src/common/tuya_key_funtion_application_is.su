@@ -1,0 +1,8 @@
+tuya_key_funtion.c:72:13:tuya_key1_funtion_handle_cb	48	static
+tuya_key_funtion.c:119:13:tuya_key2_funtion_handle_cb	48	static
+tuya_key_funtion.c:165:13:tuya_key1_funtion_init	64	static
+tuya_key_funtion.c:209:13:tuya_key2_funtion_init	64	static
+tuya_key_funtion.c:251:13:tuya_key_funtion_init	32	static
+tuya_key_funtion.c:276:13:tuya_set_child_lock_value	0	static
+tuya_key_funtion.c:288:13:tuya_set_key_sound_value	0	static
+tuya_key_funtion.c:300:13:tuya_set_key_power_flag	0	static

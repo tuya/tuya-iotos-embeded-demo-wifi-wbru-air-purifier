@@ -1,0 +1,10 @@
+tuya_timer_funtion.c:86:13:tuya_pm25_scan_timer_cb	0	static
+tuya_timer_funtion.c:120:13:tuya_uv_close_timer_cb	8	static
+tuya_timer_funtion.c:56:13:tuya_wf_status_timeout_cb	32	static
+tuya_timer_funtion.c:98:13:tuya_dark_scan_timer_cb	8	static
+tuya_timer_funtion.c:135:13:tuya_wf_status_timeout_start	32	static
+tuya_timer_funtion.c:160:13:tuya_pm25_scan_timer_start	32	static
+tuya_timer_funtion.c:192:13:tuya_pm25_scan_timer_stop	32	static
+tuya_timer_funtion.c:219:13:tuya_dark_scan_timer_start	32	static
+tuya_timer_funtion.c:251:13:tuya_dark_scan_timer_stop	32	static
+tuya_timer_funtion.c:278:13:tuya_uv_close_timer_start	32	static

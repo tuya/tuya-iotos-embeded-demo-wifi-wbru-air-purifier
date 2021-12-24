@@ -1,0 +1,14 @@
+tuya_filter_funtion.c:121:20:tuya_write_filter_pm_total	32	static
+tuya_filter_funtion.c:170:20:tuya_write_filter_use_days	32	static
+tuya_filter_funtion.c:268:20:tuya_write_now_days	32	static
+tuya_filter_funtion.c:317:20:tuya_write_run_days	32	static
+tuya_filter_funtion.c:470:13:tuya_read_save_data_from_flash	56	static
+tuya_filter_funtion.c:532:13:tuya_write_save_data_in_flash	40	static
+tuya_filter_funtion.c:366:13:tuya_filter_1minute_task	80	static
+tuya_filter_funtion.c:632:13:tuya_pm_total_dp_updata	8	static
+tuya_filter_funtion.c:644:13:tuya_runtime_total_dp_updata	8	static
+tuya_filter_funtion.c:656:13:tuya_filter_life_dp_updata	8	static
+tuya_filter_funtion.c:672:13:tuya_filter_days_dp_updata	8	static
+tuya_filter_funtion.c:581:13:tuya_filter_reset	40	static
+tuya_filter_funtion.c:696:8:tuya_get_filter_life	0	static
+tuya_filter_funtion.c:707:13:tuya_filter_life_figure_task_init	40	static

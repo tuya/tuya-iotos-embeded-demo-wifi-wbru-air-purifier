@@ -1,0 +1,7 @@
+tuya_mode_funtion.c:204:13:tuya_work_mode_set	24	static
+tuya_mode_funtion.c:170:13:tuya_power_set	16	static
+tuya_mode_funtion.c:238:13:tuya_power_switch	32	static
+tuya_mode_funtion.c:264:13:tuya_work_mode_switch	32	static
+tuya_mode_funtion.c:295:13:tuya_air_cleaner_init	32	static
+tuya_mode_funtion.c:324:13:tuya_recovery_from_fault	8	static
+tuya_mode_funtion.c:342:14:tuya_get_power_status	0	static

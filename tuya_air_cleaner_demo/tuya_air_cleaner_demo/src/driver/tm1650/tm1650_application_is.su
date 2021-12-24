@@ -1,0 +1,13 @@
+tm1650.c:60:20:tm1650_iic_wait_ack	8	static
+tm1650.c:78:13:tm1650_iic_send_one_byte	16	static
+tm1650.c:45:13:tm1650_iic_stop	8	static
+tm1650.c:135:20:tm1650_iic_write_page.constprop	24	static
+tm1650.c:101:6:tm1650_iic_ack	8	static
+tm1650.c:115:9:tm1650_iic_recv_byte	16	static
+tm1650.c:202:13:tuya_tm1650_write_raw	40	static
+tm1650.c:170:13:tuya_tm1650_init	40	static
+tm1650.c:237:13:tuya_tm1650_write	16	static
+tm1650.c:250:13:tuya_tm1650_write_once_raw	32	static
+tm1650.c:278:13:tuya_tm1650_write_once	0	static
+tm1650.c:290:13:tuya_tm1650_read	24	static
+tm1650.c:322:13:tuya_tm1650_light_enable	32	static

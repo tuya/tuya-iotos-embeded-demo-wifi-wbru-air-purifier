@@ -1,0 +1,5 @@
+tuya_lcd_display.c:84:13:tuya_lcd_sw_i2c_init	24	static
+tuya_lcd_display.c:104:13:tuya_lcd_show_num	48	static
+tuya_lcd_display.c:165:13:tuya_lcd_show_null	32	static
+tuya_lcd_display.c:187:13:tuya_led_show	24	static
+tuya_lcd_display.c:212:13:tuya_lcd_show_light_enable	24	static

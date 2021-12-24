@@ -1,0 +1,10 @@
+tuya_nfc_funtion.c:367:20:tuya_check_timer_start	32	static
+tuya_nfc_funtion.c:446:13:tuya_check_door_and_filter_task_cb	16	static
+tuya_nfc_funtion.c:99:20:tuya_read_filter_id.constprop	40	static
+tuya_nfc_funtion.c:310:20:tuya_check_door_and_filter_once	96	static
+tuya_nfc_funtion.c:343:13:tuya_check_timer_cb	8	static
+tuya_nfc_funtion.c:58:13:tuya_nfc_funtion_init	24	static
+tuya_nfc_funtion.c:392:13:tuya_check_door_and_filter	8	static
+tuya_nfc_funtion.c:418:13:tuya_filter_type_dp_updata	16	static
+tuya_nfc_funtion.c:434:6:tuya_door_sen_pin_irq_cb	0	static
+tuya_nfc_funtion.c:474:13:tuya_check_door_and_filter_task_init	40	static

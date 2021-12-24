@@ -1,0 +1,9 @@
+soc_i2c.c:21:13:opSocI2CInit	32	static
+soc_i2c.c:59:6:vSocI2CSdaReset	24	static
+soc_i2c.c:84:6:vSocI2CSdaSet	24	static
+soc_i2c.c:110:6:vSocI2CSclReset	24	static
+soc_i2c.c:134:6:vSocI2CSclSet	24	static
+soc_i2c.c:158:9:ucSocI2CSdaInputRead	8	static
+soc_i2c.c:169:6:vSocI2CDelay	0	static
+soc_i2c.c:180:6:vSocI2CSDA_IN	0	static
+soc_i2c.c:190:6:vSocI2CSDA_OUT	0	static

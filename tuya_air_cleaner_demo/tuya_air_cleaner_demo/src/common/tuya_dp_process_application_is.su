@@ -1,0 +1,3 @@
+tuya_dp_process.c:55:6:tuya_update_single_dp	48	static
+tuya_dp_process.c:117:13:tuya_update_dp_initial_value	24	static
+tuya_dp_process.c:184:6:tuya_deal_dp_proc	32	static

@@ -1,0 +1,4 @@
+tm1650_app.c:28:13:tuya_tm1650_app_read	16	static
+tm1650_app.c:43:13:tuya_tm1650_app_write	16	static
+tm1650_app.c:90:13:tuya_tm1650_app_init	40	static
+tm1650_app.c:115:13:tuya_tm1650_app_light_enable	24	static

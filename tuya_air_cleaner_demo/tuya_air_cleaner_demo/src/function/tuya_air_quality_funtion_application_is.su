@@ -1,0 +1,7 @@
+tuya_air_quality_funtion.c:172:20:tuya_show_air_quality	24	static
+tuya_air_quality_funtion.c:78:13:tuya_uart0_init	32	static
+tuya_air_quality_funtion.c:271:13:tuya_get_air_quality_task_init	40	static
+tuya_air_quality_funtion.c:296:13:tuya_air_quality_dp_updata	8	static
+tuya_air_quality_funtion.c:245:13:tuya_get_air_quality_task_cb	40	static
+tuya_air_quality_funtion.c:332:13:tuya_light_switch_set	24	static
+tuya_air_quality_funtion.c:222:13:tuya_switch_show_air_quality_type	8	static
